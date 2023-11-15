@@ -1,0 +1,15 @@
+{
+  "name": "web-crawler---http",
+  "version": "1.0.0",
+  "description": "crawl a website and produce a report of the internal linking structure of the website. Basically, which pages links to which other pages in website.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
