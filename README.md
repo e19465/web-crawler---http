@@ -15,3 +15,13 @@ Explore the web effortlessly using my Node.js web crawler. It smoothly gathers l
 
 ## Used Languages
 - Java Script (Node JS)
+
+## how to use?
+- Clone this repository
+- Open project in code editor
+- in the editor terminal write -> npm start http://websitename.com
+
+## One example given below
+![](https://github.com/e19465/web-crawler---http/blob/main/img/Capture1.PNG)
+![](https://github.com/e19465/web-crawler---http/blob/main/img/Capture2.PNG)
+
